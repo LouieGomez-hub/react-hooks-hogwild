@@ -9,7 +9,7 @@ function HogDetails({ hog }) {
         Highest medal achieved: <strong>{medal}</strong>
       </p>
       <p>
-        <strong>{weight}</strong>
+        Weight: <strong>{weight}</strong>
       </p>
     </div>
   )
